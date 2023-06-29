@@ -1,0 +1,18 @@
+[
+  {
+    "caption": "Gitlab Snippets: List",
+    "command": "list_snippets"
+  },
+  {
+    "caption": "Gitlab Snippets: Create",
+    "command": "create_snippet"
+  },
+  {
+    "caption": "Gitlab Snippets: Delete",
+    "command": "delete_snippet"
+  },
+  {
+    "caption": "Gitlab Snippets: Update",
+    "command": "update_snippet"
+  }
+]

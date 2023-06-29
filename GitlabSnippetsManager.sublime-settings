@@ -1,0 +1,4 @@
+{
+   "api_endpoint": "https://gitlab.com/api/v4",
+   "private_token": "< access token with `api` scope"
+}

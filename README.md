@@ -29,7 +29,6 @@ To delete a snippet, open the command palette and type `Delete Snippet`. Select 
 
 ## Configuration
 
-Before using the plugin, you need to configure your Gitlab API endpoint and private token. To do this, open the command palette and type `Preferences: Gitlab Snippets Manager Settings`. Select the command to open the settings file. In the settings file, enter your Gitlab API endpoint and private token.
 
 ```json
 {
